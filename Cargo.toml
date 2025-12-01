@@ -2,7 +2,7 @@
 name = "swap_crate"
 version = "0.1.0"
 edition = "2021"
-authors = ["Mishal Turkane mishalturkane@gmail.com"]
+authors = ["mishalturkane@gmail.com"]
 description = "A simple swap function crate"
 license = "MIT"
 repository = "https://github.com/mishalturkane/swap_crate"
